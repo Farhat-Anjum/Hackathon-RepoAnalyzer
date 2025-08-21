@@ -31,8 +31,7 @@ Hackathon-RepoAnalyzer/
 │── app.py                # Streamlit app (main entry)
 │── requirements.txt      # Dependencies
 │── README.md             # Project overview
-│── docs/
-│    └── Hackathon_Pitch.pdf   # PDF with challenge, idea, and demo doc
+│── Hackathon_Repo_Analyzer_Documentation.pdf   # PDF with challenge, idea, and demo doc
 │── .env.example          # Example env file (no keys)
 ```
 
@@ -94,5 +93,5 @@ Hackathon-RepoAnalyzer/
 👉 Our solution: AI-powered instant repo analysis with diagrams.  
 👉 Benefit: Saves time, boosts collaboration, accelerates delivery.
 
-📄 Detailed description in `docs/Hackathon_Pitch.pdf`
+📄 Detailed description in `Hackathon_Repo_Analyzer_Documentation.pdf`
 
